@@ -356,12 +356,6 @@
       "menu_title": "Popular",
       "menu_order": "popular",
       "menu_filter": "wallpaper"
-    },
-    {
-      "menu_id": "4",
-      "menu_title": "Live Wallpaper",
-      "menu_order": "live",
-      "menu_filter": "live"
     }
   ]
 }
